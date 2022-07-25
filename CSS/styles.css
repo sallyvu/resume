@@ -1,0 +1,151 @@
+a{
+  color: #11999E;
+}
+body {
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 70px auto 0 auto;
+}
+h2 {
+  color: purple;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3 {
+  color: purple;
+  font-family: 'Montserrat', sans-serif;
+}
+hr {
+  border: dotted #C8B6E2 7px;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 5%
+}
+p {
+    line-height: 2;
+}
+thead {
+  background-color: #66BFBF;
+  color: white;
+}
+td {
+  text-align: left;
+  padding: 10px;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+table {
+  width: 50%;
+}
+
+/*******************************CLASS INDICATORS**********************/
+.btn {
+  color: white;
+  background-color: purple;
+  border: 0px solid;
+  border-radius: 30px;
+  padding: 20px;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+.btn:hover {
+  background-color: purple;
+}
+.bottom-container {
+  background-color: #C8B6E2;
+  padding: 20px 0;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin: 30px auto 0px;
+}
+.dev {
+  text-decoration: underline;
+}
+.developer {
+  margin-top: 0;
+}
+.face {
+  height: 10%;
+  width: 10%;
+}
+.contact {
+  margin: 40px auto;
+}
+.intro {
+  color: black;
+  font-size: 1.5rem;
+}
+.introduction {
+  color: #40514E;
+  margin: auto;
+  width: 50%;
+}
+.footer-link {
+    color: purple;
+    margin: auto 20px;
+    text-decoration: none;
+}
+.footer-link:hover {
+  color: #11999E;
+  text-decoration: underline;
+}
+.java {
+  height: 20%;
+  width: 20%;
+  float: right;
+}
+.middle-container {
+  position:relative;
+  margin: 100px 0;
+}
+.top-container {
+  background-color:#F9F3EE;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 20px;
+  right: 200px;
+}
+.transcript {
+  margin-left: auto;
+  margin-right: auto;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align:left;
+}
+.latte {
+  height: 20%;
+  width: 20%;
+  float: left;
+  margin-left: 30px;
+}
+.lavender {
+  height: 30%;
+  width: 30%;
+}
+.html {
+  height: 20%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;#EAF6F6
+}
